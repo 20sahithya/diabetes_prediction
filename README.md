@@ -1,4 +1,4 @@
-Sentiment Analysis on Customer Reviews of Electronic Gadgets
+Sentiment Analysis on Customer Reviews of Electronic Gadgets\n
 This project implements a Convolutional Neural Network (CNN) for sentiment analysis, specifically targeting customer reviews on electronic gadgets 
 
 File Overview
